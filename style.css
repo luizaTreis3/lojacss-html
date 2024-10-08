@@ -1,0 +1,191 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: hwb(0 100% 0%);
+}
+
+
+header {
+    background-color: #7c83e9;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center
+}
+
+
+header h1 {
+    margin: 0;
+}
+
+
+nav {
+    background-color: hsl(0, 0%, 0%);
+    color: white;
+    padding: 10px;  
+    text-align: center;
+}
+
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+
+nav ul li {
+    display: inline;  
+    margin-right: 20px;
+}
+
+
+nav ul li a {
+    color: hsl(0, 0%, 100%);
+    text-decoration: none;
+}
+
+
+main {
+    padding: 20px;
+    background-color: hwb(238 56% 13%);  
+    margin: 20px;
+    border-radius: 10px;
+  }
+
+
+section {
+    margin-bottom: 20px;  
+}
+
+
+section h2 {
+    color: hwb(0 0% 100%);
+}
+
+
+aside {
+    background-color: hwb(238 56% 13%);
+    padding: 20px;  
+    margin: 20px;
+    border-left: 4px solid black;
+    border-radius: 10px;
+}
+
+
+.social-media img {
+    width: 100%;
+    height: auto;
+    max-width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+
+footer {
+    background-color: #7c83e9;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: hwb(0 100% 0%);
+}
+
+
+header {
+    background-color: #7c83e9;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+}
+
+
+header h1 {
+    margin: 0;
+}
+
+
+nav {
+    background-color: hsl(0, 0%, 0%);
+    color: white;
+    padding: 10px;  
+    text-align: center;
+}
+
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+
+nav ul li {
+    display: inline;  
+    margin-right: 20px;
+}
+
+
+nav ul li a {
+    color: hsl(0, 0%, 100%);
+    text-decoration: none;
+}
+
+
+main {
+    padding: 20px;
+    background-color: hwb(238 56% 13%);  
+    margin: 20px;
+    border-radius: 10px;
+}
+
+
+section {
+    margin-bottom: 20px;  
+}
+
+
+section h2 {
+    color: hwb(0 0% 100%);
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+
+th {
+    background-color: #7c83e9;
+    color: black;
+}
+
+
+tr:nth-child(even) {
+    background-color: hwb(238 56% 20%);
+}
+
+
+footer {
+    background-color: #7c83e9;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+
